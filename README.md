@@ -1,2 +1,3 @@
-# react-portfolio-v1
-My personal developer portfolio built with React
+# My Developer Portfolio
+
+Welcome to my personal portfolio repository.
